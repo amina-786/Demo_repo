@@ -29,3 +29,6 @@ Bold people take bold decision they are actually brave and do a lot of work.
  4. Zohair
  5. Ayesha
 
+### Making new updation
+Skills larning is very important.
+
